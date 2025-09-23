@@ -7,4 +7,6 @@
 
 #### Prueba
 
+
+
 ![alt text](Image\Variables-Operadores-Metodos_006.gif)
