@@ -7,7 +7,4 @@
 
 #### Prueba
 
-![alt text][def]
-
-
-[def]: Image\Carrusel_Colores.gif
+![alt text](Image\Variables-Operadores-Metodos_006.gif)
