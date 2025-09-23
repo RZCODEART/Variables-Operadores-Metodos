@@ -1,1 +1,1 @@
-
+![Example Image](Carrusel_Colores_gif)
