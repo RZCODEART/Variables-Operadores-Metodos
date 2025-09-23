@@ -3,10 +3,12 @@
 ## EJERCICIO 006
 
 
-![Example Image](Image\Carrusel_Colores_.gif)
+![Example Image](image\Carrusel_Colores_.gif)
 
 #### Prueba
 
 
 
-![alt text](Image\CarruselColores.gif)
+![alt text][def]
+
+[def]: image\CarruselColores.gif
