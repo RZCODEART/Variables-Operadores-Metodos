@@ -3,4 +3,4 @@
 ## EJERCICIO 006
 
 
-![Example Image](Carrusel_Colores_gif)
+![Example Image](Carrusel_Colores_.gif)
