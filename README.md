@@ -23,11 +23,11 @@
 
 
 
-<img src="image\carruselcolores.gif" width="100%">
+<img src="image/carruselcolores.gif" width="100%">
 
 
 
 
-<img src="image\Variables-Operadores-Metodos_006.gif" width="100%">
+<img src="image/Variables-Operadores-Metodos_006.gif" width="100%">
 
 
