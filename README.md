@@ -8,7 +8,4 @@
 #### Prueba
 
 
-
-![alt text][def]
-
-[def]: image\CarruselColores.gif
+![Example Image](Vídeo sin título ‐ Hecho con Clipchamp (1).gif)
