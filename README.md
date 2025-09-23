@@ -3,7 +3,7 @@
 ## EJERCICIO 006
 
 
-![Example Image](image\Carrusel_Colores_.gif)
+![Example Image](image/CarruselColores.gif)
 
 #### Prueba
 
